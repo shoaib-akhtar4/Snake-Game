@@ -1,0 +1,14 @@
+.direction-buttons {
+    display: inline-block;
+    margin: 10px auto;
+}
+
+button {
+    background-color: #88949c;
+    border: none;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: #c6d5de;
+}

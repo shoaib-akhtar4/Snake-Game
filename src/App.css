@@ -1,0 +1,23 @@
+*,
+::after*,
+::before* {
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    width: 100%;
+    background-color: black;
+}
+
+.game-container {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+}
+
+.App {
+    width: 100%;
+}
